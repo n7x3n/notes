@@ -1,3 +1,6 @@
+---
+date: 2026-03-10
+---
  - první verze: Windows 1.0 v roce 1985
 ![[windows-vyvoj.png]]
 # Windows 11

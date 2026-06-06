@@ -1,5 +1,6 @@
 ---
 date: 2026-05-03
+author: n7x3n
 ---
 # Lakomec
 - **Druh:** 

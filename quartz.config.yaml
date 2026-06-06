@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: n7x3n
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -142,6 +142,10 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      folderClickBehavior: collapse
+      folderDefaultState: collapsed
+      useSavedState: true
     layout:
       position: left
       priority: 50
@@ -213,10 +217,18 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/n7x3n
+        Instagram: https://www.instagram.com/_n7x3n/
+        Email: mailto:n7x3n.contact@gmail.com
   - source: github:quartz-community/recent-notes
-    enabled: false
+    enabled: true
+    options:
+      title: "Nedávno přidané"
+      limit: 3
+    layout:
+      position: right
+      priority: 10
+      condition: index
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
@@ -234,7 +246,6 @@ plugins:
     options:
       includeAll: false
       includedProperties:
-        - author
         - description
         - tags
         - aliases
