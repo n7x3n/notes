@@ -1,0 +1,111 @@
+---
+date: 2026-03-08
+---
+# Přemyslovci
+- **Bořivoj I.** 
+	- (vládl cca. 870-889)
+	- první historicky doložený panovník
+	- přijal křesťanství z Velké Moravy
+	- přenesl knížecí sídlo do Prahy
+	- spolu s Ludmilou šířili křesťanské hodnoty
+	- synové Spytihněv I. a Vratislav I.
+- **Spytihněv I.**
+	- upevnil křesťanství
+	- připojil další území
+- **Vratislav I.**
+	- rozvíjel knížecí moc a zajistil pokračování rodu
+	- jeho manželka Drahomíra se zapletla do mocenských konfliktů s Ludmilou -> zavražděna na Tetíně - první česká světice
+- **Svatý Václav**
+	- patron českého národa
+	- symbol české státnosti
+	- vládl 921-935
+	- mírumilovná politika vůči sousedním státům
+	- šíření křesťanství
+	- neochota ke konfliktům vedly k neshodám s jeho bratrem **Boleslavem I.** -> zavraždil Václava v 935
+- **Boleslav I. Ukrutný**
+	- vládl 935-972
+	- výrazně rozšířil území
+	- zavedl správní jednotky tzv. kastelánie a zahájil **ražbu denárů**
+	- podporoval svatováclavský kult a za jeho vlády byl jmenován sv. Vojtěch druhým pražským biskupem
+	- střety pohanské a křesťanské tradice
+	- vyvraždění Slavníkovců (995) - dokončení sjednocení českých zemí pod nadvládou Přemyslovců
+- po smrti **Boleslava II. Pobožného** (vládl 972-999) doba nestability
+- jeho synové **Boleslav III. Ryšavý**, **Jaromír** a **Oldřich** rozpoutali občanskou válku - oslabení knížecí moci
+- **Jaromír** - několikrát oslepen a vyhnán, ale přesto se vždy vrátil do mocenského boje
+- Nakonec se vlády ujal **Oldřich** - obnova stability a prosazení hospodářské reformy<br>
+- stabilizace za vlády **Břetislava I.** (zvaný "český Achilles")
+	- proslavil se výpravou do Polska, odkud přivezl ostatky svatého Vojtěcha
+	- zavedl ==Stařešinský zákon== - vládnout bude vždy nejstarší člen rodu
+- **Spytihněv II.** 
+	- vládl 1055-1061
+	- posílil postavení českého státu
+	- zavedl správní reformy a podporoval rozvoj křesťanské církve
+	- jeho politika - předzvěst silnějšího propojení českého státu s Evropou
+- **Vratislav II.** 
+	- vládl 1061-1092
+	- první český král - královský titul 1085 udělený císařem Svaté říše Římské za podporu v boji
+	- významně podporoval stavbu nových hradů a rozvoj české státnosti
+	
+- Poslední éra Přemyslovců od konce 12. - počátku 14. století
+- ==zlatý věk rodu Přemyslovců== - významné postavení ve střední Evropě
+- **Přemysl Otakar I.**
+	- vládl 1192-1230
+	- upevnění české státnosti
+	- získání ==zlaté buly sicilské== (1212) - dokument potvrzující nezávislost českého státu a **přiznávající dědičný český titul**
+	- zavedena ==primogenitura== - předností dědění trůnu nejstarším synem
+	- období posílení hospodářské a politické moci 
+- **Václav I.**
+	- vládl 1230-1253
+	- vzdělaný, kulturní panovník
+	- za jeho vlády pronikla gotika
+	- rozvoj stavebnictví, podpora městského práva a hospodářský rozvoj
+	- konflikty se svým synem **Přemyslem Otakarem II.**
+- **Přemysl Otakar II.**
+	- vládl 1253-1278
+	- přezdívka **král železný a zlatý**
+	- rozšířil území českého království až k Jadranu a připojil k němu rakouská, štýrská a korutánská knížectví
+	- usiloval o titul římského krále
+	- padl v **bitvě na Moravském poli** (1278) - konec velké expanze českého státu
+- **Václav II.**
+	- vládl 1278-1305
+	- zdědil oslabený stát
+	- diplomacie a těžba stříbra v Kutné Hoře
+	- ražba slavných pražských grošů a podpora rozvoje měst
+	- Polský král (1291)
+	- získání polské koruny sňatkem s Eliškou Rejčkou (1300)
+- **Václav III.**
+	- nakrátko korunován uherským králem, později se titulu vzdal (nedokázal udržet obě země najednou)
+	- Snažil se upevnit moc v Polsku, ale během vojenského tažení byl roku 1306 v Olomouci zavražděn
+	- Jeho smrtí vymřela dynastie Přemyslovců po meči - nastalo období bojů o český trůn
+# Sousední státy ve středověku
+## Polsko
+- Stát formoval rod Piastovců
+- **Měšek I**. 
+	- první doložený panovník (960-992) 
+	- přijal křesťanství z Čech
+	- sjednotil většinu polských kmenů
+- **Boleslav Chrabrý**
+	- vládl 992-1025
+	- založil arcibiskupství v Hnězdně
+	- prvním polský král
+	- po jeho smrti hrozil rozpad země
+- opět sjednoceno českým králem Václavem II.
+## Uherské království
+- Původně kočovní Maďaři vytvořili stát, který pokřesťanštil kníže Gejza.
+- Štěpán I. získal roku 1000 královskou korunu a stal se prvním uherským králem.
+- Významná byla dynastie Arpádovců a král Ondřej II., který vydal Zlatou bulu omezující moc panovníka.
+# Kultura a umění
+## Románský sloh
+- 11. století až polovina 13. století
+- Znaky: Masivní architektura, silné zdi, malá okna
+- Typické stavby: Rotundy (kruhový půdorys) a baziliky
+- Výzdoba: Fresky a malby s biblickými motivy sloužící k výuce věřících.
+- Památky v ČR: Rotunda  sv. Jiří na Řípu, rotunda sv. Petra a Pavla na Budči, bazilika sv. Jiří na Pražském hradě. Břevnovský klášter
+## Gotika
+- přelom 12. a 13. století až 15. století
+- Znaky: Vertikálnost (snaha stavět do výšky k Bohu), lomený oblouk, vnější opěrný systém a vysoké klenby.
+- Prvky: Rozetová okna, fiály, chrliče a vitráže (barevná skla).
+- Význam: Katedrály umožnily prosvětlení vnitřních prostor, v umění se kladl důraz na realismus a emoce
+- Památky v ČR: Katedrála sv. Víta v Praze, Karlštejn, Karlův most
+
+[[středověk-příprava na test|předchozí]] 
