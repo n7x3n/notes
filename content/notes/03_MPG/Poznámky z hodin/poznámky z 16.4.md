@@ -1,5 +1,6 @@
 ---
 date: 2026-04-16
+author: n7x3n
 ---
 # funkce Math.random
 - <code>Math.random()</code>

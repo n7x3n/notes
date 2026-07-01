@@ -1,5 +1,6 @@
 ---
 date: 2025-10-23T22:50:00
+author: n7x3n
 ---
 ## Co je model?
 - zjednodušené zobrazení skutečnosti

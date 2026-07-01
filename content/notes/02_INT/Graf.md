@@ -1,5 +1,6 @@
 ---
 date: 2025-10-23T23:04:00
+author: n7x3n
 ---
 ## Co je to graf?
 - model reality, který popisuje objekty a jejich vzájemné vztahy pomocí bodů a spojnic

@@ -1,5 +1,6 @@
 ---
 date: 2025-11-25
+author: n7x3n
 ---
 - žádní dva lidé na světě nejsou úplně stejní. Každý z nás má různé osobní předpoklady, různé životní podmínky. V lidské důstojnosti si však všichni lidé mají být rovni.
 

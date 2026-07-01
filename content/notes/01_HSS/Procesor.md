@@ -1,5 +1,6 @@
 ---
 date: 2025-11-21
+author: n7x3n
 ---
 # Procesor
 - CPU (central processing unit)

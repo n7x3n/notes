@@ -1,5 +1,6 @@
 ---
 date: 2026-04-17
+author: n7x3n
 ---
 # Výstupní zařízení
 ## Monitor

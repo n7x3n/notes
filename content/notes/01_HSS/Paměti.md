@@ -1,5 +1,6 @@
 ---
 date: 2025-11-28
+author: n7x3n
 ---
 # Paměti
 ## Hierarchie pamětí

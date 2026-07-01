@@ -1,5 +1,6 @@
 ---
 date: 2026-02-05
+author: n7x3n
 ---
 # Oběžný majetek
 **Oběžný majetek vs. Dlouhodobý**

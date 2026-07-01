@@ -1,5 +1,6 @@
 ---
 date: 2025-10-20T00:55:00
+author: n7x3n
 ---
 - Základní hardware většiny počítačů 
 - Propojení a napájení jednotlivých komponentů  

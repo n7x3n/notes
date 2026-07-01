@@ -1,5 +1,6 @@
 ---
 date: 2026-01-12
+author: n7x3n
 ---
 # Počátky slovesného umění
 ## Nepsaná slovesnost

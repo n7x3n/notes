@@ -1,5 +1,6 @@
 ---
 date: 2025-12-15
+author: n7x3n
 ---
 # feudální systém
 - půda vlastněna šlechtou a církví

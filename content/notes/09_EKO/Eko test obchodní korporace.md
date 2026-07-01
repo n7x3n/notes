@@ -1,5 +1,6 @@
 ---
 date: 2025-11-27
+author: n7x3n
 ---
 # korporace
 - právnická osoba tvořená společenstvím osob (fyzických i právnických)

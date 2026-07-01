@@ -1,5 +1,6 @@
 ---
 date: 2026-02-01
+author: n7x3n
 ---
 # Obrázky
 - 6 hlavních faktorů

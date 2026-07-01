@@ -1,5 +1,6 @@
 ---
 date: 2025-10-21T22:44:00
+author: n7x3n
 ---
 ## Informace
 - zpracovává data, která mají smysl a význam

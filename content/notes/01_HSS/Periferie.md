@@ -1,5 +1,6 @@
 ---
 date: 2026-03-20
+author: n7x3n
 ---
 # Periferie
 ## Vstupní zařízení

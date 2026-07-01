@@ -1,5 +1,6 @@
 ---
 date: 2025-11-18
+author: n7x3n
 ---
 # Dělení programovacích jazyků
 

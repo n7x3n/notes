@@ -1,5 +1,6 @@
 ---
 date: 2026-02-27
+author: n7x3n
 ---
 # HDD 
 - Vysokokapacitní médium

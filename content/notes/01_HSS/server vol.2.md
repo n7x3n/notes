@@ -1,5 +1,6 @@
 ---
 date: 2026-05-22
+author: n7x3n
 ---
 # Hardwarové požadavky
 ## Základové desky

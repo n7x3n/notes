@@ -1,5 +1,6 @@
 ---
 date: 2026-02-12
+author: n7x3n
 ---
 # Podmínky
 ## a - AND 

@@ -1,23 +1,22 @@
 ---
 date: 2026-01-29
 title: Kvantifikátory (Quantifiers)
+author: n7x3n
 ---
->[!INFO] info
-> Tohle jsou pouze základní kvantifikátory pro úroveň A2 a B1. 
-> Pro Kvantifikátory na úrovni B2 klikněte [[Kvantifikátory-advanced|zde]]
+
 # Počitatelnost podstatných jmen
 ## Počitatelná (Countable)
 - mají jednotné i množné číslo (apple -> apples)
 - můžeme před ně dát číslovku (one car, two chairs)
 <br>
-==**Věci, které lze oddělit, spočítat a mají jasnou hranici.**==
+==Věci, které lze oddělit, spočítat a mají jasnou hranici.==
 ## Nepočitatelná
 - nejdou rozdělit bez nějaké pomůcky (bottle, slice, piece, loaf, glass, cup...)
 	- water -> nepočitatelné
 	- a bottle of water -> počitatelné
 - mají pouze jednotné číslo
 - nedáváme před ně člen a/an
-==**látky, hmoty, tekutiny a abstraktní pojmy**==
+==látky, hmoty, tekutiny a abstraktní pojmy==
 ----
 # Kvantifikátory
 ## Vyjádření velkého množství ("hodně")

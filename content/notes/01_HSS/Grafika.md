@@ -1,5 +1,6 @@
 ---
 date: 2026-03-13
+author: n7x3n
 ---
 # Grafická karta
 - GPU - Graphics Processing Unit

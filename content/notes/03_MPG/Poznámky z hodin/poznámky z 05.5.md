@@ -1,5 +1,6 @@
 ---
 date: 2026-05-05
+author: n7x3n
 ---
 
 # Opakování

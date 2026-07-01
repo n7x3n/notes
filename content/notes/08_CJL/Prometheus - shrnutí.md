@@ -1,9 +1,10 @@
 ---
 date: 2026-01-18
+author: n7x3n
 ---
 # Pověst o Prometheovi
 
->[!INFO]
+>[!INFO] info
 > Příběh o Titánovi, který stvořil člověka, daroval mu oheň navzdory zákazu bohů a byl za to krutě potrestán. Symbol obětování se pro lidstvo a vzpoury proti tyranii.
 
 ---

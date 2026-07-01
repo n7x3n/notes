@@ -1,5 +1,6 @@
 ---
 date: 2025-11-10
+author: n7x3n
 ---
 # Žánry
 ## Bajka

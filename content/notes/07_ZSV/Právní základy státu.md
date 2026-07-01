@@ -1,5 +1,6 @@
 ---
 date: 2026-03-09
+author: n7x3n
 ---
 - Stát - organizované společenství lidí žijících trvale na určitém ohraničeném území. 
 ## Znaky státu:

@@ -1,9 +1,10 @@
 ---
 date: 2026-01-18
+author: n7x3n
 ---
 # Pověst o potopě světa (Deukalión a Pyrrha)
 
-> [!INFO]
+> [!INFO] info
 > Příběh o tom, jak se Zeus rozhodl zničit zkažené lidstvo, a o dvou spravedlivých lidech, kteří přežili a pomocí věštby znovu zalidnili svět.
 
 ---

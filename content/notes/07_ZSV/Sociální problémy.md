@@ -1,5 +1,6 @@
 ---
 date: 2025-12-08
+author: n7x3n
 ---
 # Sociální problémy
 Člověk ==je součástí== nějakého ==společenství== a také nositelem jeho hodnot Ve společnostech se lze setkat s __problémy__, které narušují fungováni společností a její rovnováhu. Patří sem diskriminace, xenofobie rasismus, sexismus, sociální znevýhodnění, chudoba

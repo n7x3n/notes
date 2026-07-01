@@ -1,5 +1,6 @@
 ---
 date: 2026-03-15
+author: n7x3n
 ---
 
 > [!TIP] Tip

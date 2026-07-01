@@ -1,5 +1,6 @@
 ---
 date: 2025-10-21T22:21:00
+author: n7x3n
 ---
 ##### **Informatika** 
 vědní obor zaměřený na teoretické i praktické aspekty zpracovávání informací pomocí počítačů. Zahrnuje programování, algoritmy, datové struktury, umělou inteligenci a další oblasti výpočetní techniky. 

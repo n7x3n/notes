@@ -1,5 +1,6 @@
 ---
 date: 2025-12-07
+author: n7x3n
 ---
 # Paměti
 - Slouží k uchování informace binárně 

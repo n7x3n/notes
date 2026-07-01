@@ -1,5 +1,6 @@
 ---
 date: 2025-10-20T00:42:00
+author: n7x3n
 ---
 ## Hlavní komponenty zdroje 
 1. **transformátor** 

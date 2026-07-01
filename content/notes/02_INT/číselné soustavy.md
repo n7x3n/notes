@@ -1,5 +1,6 @@
 ---
 date: 2025-10-21T22:28:00
+author: n7x3n
 ---
 **Číslo** 
 celé číslo např. 123 

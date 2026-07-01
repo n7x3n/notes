@@ -1,5 +1,6 @@
 ---
 date: 2026-03-17
+author: n7x3n
 ---
 # Hvězdičkový trojúhelník
 ```java

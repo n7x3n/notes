@@ -1,5 +1,6 @@
 ---
 date: 2026-02-06
+author: n7x3n
 ---
 # SSD 
 - (solid state drive)

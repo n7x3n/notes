@@ -1,6 +1,7 @@
 ---
 date: 2026-04-28
 title: Příkazový řádek
+author: n7x3n
 ---
 # Základy příkazového řádku
 - co je v závorkách -> přepiš podle potřeby

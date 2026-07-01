@@ -1,5 +1,6 @@
 ---
 date: 2025-12-11
+author: n7x3n
 ---
 # Staroorientální státy
 - nejstarší civilizace světa

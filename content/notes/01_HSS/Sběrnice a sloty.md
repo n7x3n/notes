@@ -1,5 +1,6 @@
 ---
 date: 2025-10-25T14:01:00
+author: n7x3n
 ---
 # Sběrnice (ang. Bus)
 - Součástí základní desky

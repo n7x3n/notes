@@ -1,5 +1,6 @@
 ---
 date: 2025-12-09
+author: n7x3n
 ---
 # Formátování textu
 - **Nadpisy**

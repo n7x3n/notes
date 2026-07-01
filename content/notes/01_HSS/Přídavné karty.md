@@ -1,5 +1,6 @@
 ---
 date: 2026-03-06
+author: n7x3n
 ---
 # Přídavné karty
 - Aka rozšiřující karta

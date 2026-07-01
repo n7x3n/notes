@@ -1,5 +1,6 @@
 ---
 date: 2026-01-27
+author: n7x3n
 ---
 # Odkazy
 - V textu jsou vizuálně odlišeny - modrý, podtržený

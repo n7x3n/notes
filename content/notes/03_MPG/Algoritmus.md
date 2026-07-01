@@ -1,5 +1,6 @@
 ---
 date: 2025-10-22T16:40:00
+author: n7x3n
 ---
 - přesný návod k řešení konkrétního problému
 ## Vlastnosti algoritmů

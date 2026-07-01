@@ -1,5 +1,6 @@
 ---
 date: 2026-03-10
+author: n7x3n
 ---
 # Cyklus pomocí for
 - cyklus u kterého dopředu vím, kolikrát se provede

@@ -1,5 +1,6 @@
 ---
 date: 2026-02-10
+author: n7x3n
 ---
 # zadání
 - vytvoř program, kterému uživatel zadá 2 strany obdélníka

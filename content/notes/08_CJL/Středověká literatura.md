@@ -1,9 +1,8 @@
 ---
 date: 2026-05-05
+author: kuciss
 ---
 
-> [!NOTE] autor
-> [@kucera.j8](https://www.instagram.com/kucera.j8/) 
 # Středověká literatura
 ## Staroslověnské a latinské období (9.–10. století)
 - rozvoj od 2. poloviny 9. století

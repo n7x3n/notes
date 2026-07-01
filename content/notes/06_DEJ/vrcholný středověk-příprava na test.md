@@ -1,5 +1,6 @@
 ---
 date: 2026-03-08
+author: n7x3n
 ---
 # Přemyslovci
 - **Bořivoj I.** 

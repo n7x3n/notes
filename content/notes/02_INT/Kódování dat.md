@@ -1,5 +1,6 @@
 ---
 date: 2025-10-22T15:50:00
+author: n7x3n
 ---
 - Kódování dat je proces, při kterém se informace převádí do určité podoby (kódu), aby je bylo možné jednoznačně uložit, přenášet nebo zpracovávat počítačem.
 ## Další pojmy
