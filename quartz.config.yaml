@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: n7x3n.github.io/quartz
+  baseUrl: n7x3n.github.io/notes
   ignorePatterns:
     - private
     - templates
