@@ -62,10 +62,10 @@
       "installedAt": "2026-06-06T08:45:41.632Z"
     },
     "content-meta": {
-      "source": "github:quartz-community/content-meta",
-      "resolved": "https://github.com/quartz-community/content-meta.git",
-      "commit": "dd6e94b5ca1cb195104a2b5e624a43ee6aa0a324",
-      "installedAt": "2026-06-06T08:45:43.204Z"
+      "source": "./plugins/content-meta",
+      "resolved": "/mnt/c/Users/michal/Documents/forgejo/quartz/plugins/content-meta",
+      "commit": "local",
+      "installedAt": "2026-07-10T23:35:32.732Z"
     },
     "content-page": {
       "source": "github:quartz-community/content-page",
