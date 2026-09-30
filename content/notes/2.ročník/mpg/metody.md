@@ -1,6 +1,6 @@
 ---
 date: 2026-09-24
-author: Majki
+author: n7x3n
 ---
 
 # Metoda

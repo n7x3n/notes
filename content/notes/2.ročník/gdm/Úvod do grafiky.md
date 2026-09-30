@@ -1,5 +1,6 @@
 ---
 date: 2026-09-23
+author: n7x3n
 ---
 
 # Úvod do počítačové grafiky
