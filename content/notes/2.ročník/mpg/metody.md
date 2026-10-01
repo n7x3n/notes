@@ -4,9 +4,14 @@ author: n7x3n
 ---
 
 # Metoda
-
+## Proč se metody používají
+- zkracují kód (napíšu jednou, použiju víckrát)
+- zlepšují čitelnost (názvy metod většinou shrňují, co metoda dělá)
+- 
+## Jak se zapisují
 - zapisuje se malým počátečním písmenem
 - za názvem závorka
+-  píše se ve formátu ``verejnost trida navratovy-typ jmeno``
 
 ```java
 public static void main(){}
@@ -20,9 +25,9 @@ public static void main(){}
   - **protected**
   - **private** - to může používat jenom jeden určitý (použiju, když mám objekt a nechci, aby mi do něj někdo lezl)
 
-## metoda třídy
-- se slovem **static** ji může používat celá třída
-- bez něj ji může používat celá třída
+## třida
+- **static** - může ji používat celá třída
+- **...** (nenapíšu nic)  - tzv. **Instanční** - bez něj ji může používat celá instance, celý objekt
 
 ## Návratový typ
 - **void** = procedura
