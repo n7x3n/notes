@@ -7,11 +7,11 @@ author: n7x3n
 ## Proč se metody používají
 - zkracují kód (napíšu jednou, použiju víckrát)
 - zlepšují čitelnost (názvy metod většinou shrňují, co metoda dělá)
-- 
+
 ## Jak se zapisují
 - zapisuje se malým počátečním písmenem
 - za názvem závorka
--  píše se ve formátu ``verejnost trida navratovy-typ jmeno``
+-  píše se ve formátu ``verejnost trida navratovy-typ jmeno(parametry){kód}``
 
 ```java
 public static void main(){}
@@ -27,19 +27,19 @@ public static void main(){}
 
 ## třida
 - **static** - může ji používat celá třída
-- **...** (nenapíšu nic)  - tzv. **Instanční** - bez něj ji může používat celá instance, celý objekt
+- **...** (nenapíšu nic)  - tzv. **Instanční** - může ji používat celá instance, celý objekt
 
 ## Návratový typ
 - **void** = procedura
-  - udělej a skonči
+  - vykonej a skonči
   - bez ``return``u
 
 - **s návartovým typem**
   - je tam datový typ (int, double, String...)
   - musí být ``return``
-- **parametrická**
+## parametry
   - buď tam nic není
-  - nebo je tam něco zadané
+  - nebo jsou tam zadané proměnné(např. ``int number``)
   - vstupy se berou postupně
 
 ---
